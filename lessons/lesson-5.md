@@ -140,6 +140,18 @@ Pour ouvrir le terminal sur Linux, il faut appuyer sur la touche `Ctrl` et taper
 > **Note**
 > Selon la distribution Linux, il est possible que ce raccourci ne fonctionne pas. Dans ce cas, il faut ouvrir le terminal en appuyant sur la touche `Windows` et en tapant `Terminal`.
 
+## WSL (Windows Subsystem for Linux)
+
+Si vous utilisez Windows, vous pouvez installer un système d'exploitation Linux en utilisant WSL. Cela vous permet d'utiliser le terminal de Linux sur Windows.
+
+C'est une sorte de machine virtuelle qui exécute Linux. C'est un peu comme si on avait un ordinateur virtuel qui exécute Linux.
+
+WSL est inclus dans Windows 10. Pour l'activer, il faut ouvrir le menu Démarrer, taper `Activer ou désactiver les fonctionnalités Windows` et cocher la case `Sous-système Windows pour Linux`.
+
+Une fois WSL activé, il faut installer une distribution Linux. Pour ce faire, il faut ouvrir le menu Démarrer, taper `Microsoft Store` et chercher une distribution Linux. Par exemple, on peut installer Ubuntu.
+
+Une fois la distribution Linux installée, il faut lancer le terminal Linux. Pour ce faire, il faut ouvrir le menu Démarrer, taper `Ubuntu` et cliquer sur l'application Ubuntu.
+
 ## Exemples
 
 ### Afficher le contenu d'un fichier
