@@ -42,6 +42,8 @@ Le terminal est un programme qui permet d'interagir avec l'ordinateur en tapant 
 
 Avec le terminal, on peut naviguer dans les dossiers de l'ordinateur, créer des fichiers et des dossiers, exécuter des programmes, etc.
 
+![Terminal](/media/terminal.png)
+
 Autrefois, le terminal était la seule façon d'interagir avec l'ordinateur. Aujourd'hui, il est utilisé pour automatiser des tâches répétitives.
 
 Chaque système d'exploitation a son propre terminal. Par exemple, le terminal de Windows est différent du terminal de Mac. Cependant, la plupart des commandes sont les mêmes ou du moins très similaires.
