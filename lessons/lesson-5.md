@@ -146,7 +146,9 @@ Si vous utilisez Windows, vous pouvez installer un système d'exploitation Linux
 
 C'est une sorte de machine virtuelle qui exécute Linux. C'est un peu comme si on avait un ordinateur virtuel qui exécute Linux.
 
-WSL est inclus dans Windows 10. Pour l'activer, il faut ouvrir le menu Démarrer, taper `Activer ou désactiver les fonctionnalités Windows` et cocher la case `Sous-système Windows pour Linux`.
+WSL est inclus dans Windows 10 et Windows 11. Pour l'activer, il faut ouvrir le menu Démarrer, taper `Activer ou désactiver les fonctionnalités Windows` et cocher la case `Sous-système Windows pour Linux`.
+
+![Activer WSL](/media/enable-wsl.png)
 
 Une fois WSL activé, il faut installer une distribution Linux. Pour ce faire, il faut ouvrir le menu Démarrer, taper `Microsoft Store` et chercher une distribution Linux. Par exemple, on peut installer Ubuntu.
 
