@@ -156,6 +156,9 @@ Pour ouvrir le terminal sur Linux, il faut appuyer sur la touche `Ctrl` et taper
 | Mac et Linux | `touch fichier.txt` | Crée un fichier `fichier.txt` |
 | Windows | `type nul > fichier.txt` | Crée un fichier `fichier.txt` |
 
+> **Note**
+> Si la commande `type nul > fichier.txt` ne fonctionne pas, il faut utiliser la commande `notepad fichier.txt`. L'éditeur de texte Notepad va s'ouvrir, et il vous suffit de sauvegarder le fichier.
+
 ### Créer un dossier
 
 | OS | Commande | Description |
