@@ -123,6 +123,23 @@ Un dernier exemple: on peut écrire un script qui affiche des informations sur l
 
 Les possibilités sont infinies!
 
+## Comment ouvrir le terminal?
+
+### Windows
+
+Pour ouvrir le terminal sur Windows, il faut appuyer sur la touche `Windows` et taper `cmd`. On peut aussi ouvrir le terminal en appuyant sur la touche `Windows` et en tapant `cmd.exe`.
+
+### Mac
+
+Pour ouvrir le terminal sur Mac, il faut appuyer sur la touche `Command` et taper `Terminal`. On peut aussi ouvrir le terminal en appuyant sur la touche `Command` et en tapant `Terminal.app`.
+
+### Linux
+
+Pour ouvrir le terminal sur Linux, il faut appuyer sur la touche `Ctrl` et taper `Alt` et `T`. On peut aussi ouvrir le terminal en appuyant sur la touche `Ctrl` et en tapant `Alt` et `T`.
+
+> **Note**
+> Selon la distribution Linux, il est possible que ce raccourci ne fonctionne pas. Dans ce cas, il faut ouvrir le terminal en appuyant sur la touche `Windows` et en tapant `Terminal`.
+
 ## Exemples
 
 ### Afficher le contenu d'un fichier
