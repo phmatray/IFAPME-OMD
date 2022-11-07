@@ -74,35 +74,58 @@ Une alternative à VS Code est [JetBrains Fleet](https://www.jetbrains.com/fr-fr
 
 De très nombreux éditeurs de code existent, et il est difficile de faire une liste exhaustive. Voici quelques exemples :
 
-<!-- flex array with icons of the different editors -->
-<div style="flex: 1 1 100%; display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; margin: 0 0 1rem 0;">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" style="width: 100%; max-width: 100px;">
-  </a>
-  <a href="https://vscodium.com/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://vscodium.com/img/code.png" alt="VSCodium" style="width: 100%; max-width: 100px;">
-  </a>
-  <a href="https://atom.io/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/1200px-Atom_editor_logo.svg.png" alt="Atom" style="width: 100%; max-width: 100px;">
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://www.sublimetext.com/favicon.ico" alt="Sublime Text" style="width: 100%; max-width: 100px;">
-  </a>
-</div>
-<div style="flex: 1 1 100%; display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; margin: 0 0 1rem 0;">
-  <a href="https://notepad-plus-plus.org/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" alt="Notepad++" style="width: 100%; max-width: 100px;">
-  </a>
-  <a href="http://brackets.io/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/2048px-Brackets_Icon.svg.png" alt="Brackets" style="width: 100%; max-width: 100px;">
-  </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://www.vim.org/images/vim_editor.gif" alt="Vim" style="width: 100%; max-width: 100px;">
-  </a>
-  <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
-    <img src="https://www.gnu.org/software/emacs/images/emacs.png" alt="Emacs" style="width: 100%; max-width: 100px;">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <div style="text-align: center;">
+        <a href="https://code.visualstudio.com/">
+          <img src="https://code.visualstudio.com/assets/favicon.ico" width="100px;" alt="Visual Studio Code"/>
+          <br />
+          <sub><b>Visual Studio Code</b></sub>
+        </a>
+        <br />
+        <a href="https://code.visualstudio.com/" title="Visual Studio Code">🌍</a>
+      </div>
+    </td>
+    <td>
+      <a href="https://vscodium.com/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
+        <img src="https://vscodium.com/img/code.png" alt="VSCodium" style="width: 100%; max-width: 100px;">
+      </a> 
+      <p style="margin: 0; text-align: center;">VSCodium</p>
+    </td>
+    <td>
+      <a href="https://atom.io/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/1200px-Atom_editor_logo.svg.png" alt="Atom" style="width: 100%; max-width: 100px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
+        <img src="https://www.sublimetext.com/favicon.ico" alt="Sublime Text" style="width: 100%; max-width: 100px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://notepad-plus-plus.org/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" alt="Notepad++" style="width: 100%; max-width: 100px;">
+      </a>
+    </td>
+    <td>
+      <a href="http://brackets.io/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/2048px-Brackets_Icon.svg.png" alt="Brackets" style="width: 100%; max-width: 100px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" alt="Vim" style="width: 100%; max-width: 100px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noopener noreferrer" style="flex: 1 1 100%; max-width: 100px; margin: 0 1rem 1rem 0;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" alt="Emacs" style="width: 100%; max-width: 100px;">
+      </a>
+    </td>
+</table>
 
 ## Pourquoi utiliser VS Code ?
 
