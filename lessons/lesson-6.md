@@ -274,12 +274,12 @@ C'est une extension très pratique pour tester son code HTML/CSS/JS. Elle permet
 > Exercice 2 : Personnalisez VS Code en ajoutant une extension.
 > Vous pouvez ajouter l'extension [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) pour ajouter des icônes aux fichiers et dossiers. Vous pouvez ensuite définir l'extension comme thème d'icônes dans les paramètres de VS Code.
 
-
-
 ## Personnaliser VS Code
 
 Il est possible de personnaliser VS Code en modifiant les paramètres de l'éditeur. Pour cela, il suffit de suivre le tutoriel
 suivant : [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings).
+
+![VSCode Theme](../media/vscode-theme.png)
 
 ### Quelques paramètres utiles pour VS Code
 
